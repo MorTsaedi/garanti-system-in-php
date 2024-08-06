@@ -9,7 +9,8 @@
 4. vanila javascript
 
 ## 👏 توسعه دهنده
-1. مرتضی ساعدی (morteza@saaedi.ir) [![Morteza](https://img.shields.io/badge/Morteza-Saaedi-blue?labelColor=red&style=flat&link=https://saaedi.ir/)](https://saaedi.ir/)
+1. مرتضی ساعدی (morteza@saaedi.ir) 
+[![Morteza](https://img.shields.io/badge/Morteza-Saaedi-blue?labelColor=red&style=flat&link=https://saaedi.ir/)](https://saaedi.ir/)
 
 ## شرح پروژه
 این برنامه یک سامانه ی گارانتی برای یکی از شرکت های وارد کننده تلفن همراه و لوازم جانبی است 
